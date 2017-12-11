@@ -2,7 +2,8 @@ Foundations of Computer Networks
 Term Project
 
 SANDHYA MURALI (sm2290@g.rit.edu)
-ROHAN SHIROOR (rss1103@g.rit.edu)
+RASHMI DODEJA(rjd1227@g.rit.edu)
+SHRISHTIKA YADAV(sy2109@rit.edu)
 
 ----------------------------------------------------------------------------------
 Files in this directory:
