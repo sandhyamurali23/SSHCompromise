@@ -1,0 +1,771 @@
+INFO: 11/30/2017 07:19:50 PM ARP Spoofing Detection Started on 129.21.86.56
+WARNING: 11/30/2017 07:20:36 PM __del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+INFO: 11/30/2017 07:39:33 PM ARP Spoofing Detection Started on 129.21.86.56
+WARNING: 11/30/2017 07:43:13 PM __del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+INFO: 11/30/2017 07:43:33 PM ARP Spoofing Detection Started on 129.21.86.56
+WARNING: 11/30/2017 07:45:00 PM __del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+INFO: 11/30/2017 07:46:21 PM ARP Spoofing Detection Started on 129.21.86.56
+WARNING: 11/30/2017 07:46:40 PM __del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+INFO: 11/30/2017 07:50:19 PM ARP Spoofing Detection Started on 129.21.86.56
+WARNING: 11/30/2017 07:51:54 PM __del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+INFO: 11/30/2017 07:52:45 PM ARP Spoofing Detection Started on 129.21.86.56
+WARNING: 11/30/2017 07:53:37 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 0
+WARNING: 11/30/2017 07:53:37 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 1
+WARNING: 11/30/2017 07:53:37 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 2
+WARNING: 11/30/2017 07:53:38 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 3
+WARNING: 11/30/2017 07:53:38 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 4
+WARNING: 11/30/2017 07:53:39 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 5
+WARNING: 11/30/2017 07:53:39 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 6
+WARNING: 11/30/2017 07:53:39 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 7
+WARNING: 11/30/2017 07:53:40 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 8
+WARNING: 11/30/2017 07:53:41 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 9
+WARNING: 11/30/2017 07:53:41 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 10
+WARNING: 11/30/2017 07:53:41 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 11
+ERROR: 11/30/2017 07:53:41 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 11/30/2017 07:53:42 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 12
+WARNING: 11/30/2017 07:53:42 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 13
+WARNING: 11/30/2017 07:53:42 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 14
+WARNING: 11/30/2017 07:53:42 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 15
+WARNING: 11/30/2017 07:53:43 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 16
+WARNING: 11/30/2017 07:53:43 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 17
+WARNING: 11/30/2017 07:53:43 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 18
+WARNING: 11/30/2017 07:53:44 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 19
+WARNING: 11/30/2017 07:53:44 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 20
+WARNING: 11/30/2017 07:53:45 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 21
+WARNING: 11/30/2017 07:53:45 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 22
+WARNING: 11/30/2017 07:53:45 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 23
+WARNING: 11/30/2017 07:53:45 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 24
+WARNING: 11/30/2017 07:53:46 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 25
+WARNING: 11/30/2017 07:53:46 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 26
+WARNING: 11/30/2017 07:53:47 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 27
+WARNING: 11/30/2017 07:53:47 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 28
+WARNING: 11/30/2017 07:53:47 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 29
+WARNING: 11/30/2017 07:53:47 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 30
+WARNING: 11/30/2017 07:53:48 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 31
+WARNING: 11/30/2017 07:53:48 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 32
+WARNING: 11/30/2017 07:53:49 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 33
+WARNING: 11/30/2017 07:53:49 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 34
+WARNING: 11/30/2017 07:53:49 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 35
+WARNING: 11/30/2017 07:53:50 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 36
+WARNING: 11/30/2017 07:53:50 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 37
+WARNING: 11/30/2017 07:53:51 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 38
+WARNING: 11/30/2017 07:53:51 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 39
+WARNING: 11/30/2017 07:53:51 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 40
+WARNING: 11/30/2017 07:53:51 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 41
+WARNING: 11/30/2017 07:53:52 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 42
+WARNING: 11/30/2017 07:53:52 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 43
+WARNING: 11/30/2017 07:53:53 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 44
+WARNING: 11/30/2017 07:53:53 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 45
+WARNING: 11/30/2017 07:53:53 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 46
+WARNING: 11/30/2017 07:53:53 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 47
+WARNING: 11/30/2017 07:53:54 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 48
+WARNING: 11/30/2017 07:53:54 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 49
+WARNING: 11/30/2017 07:53:55 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 50
+WARNING: 11/30/2017 07:53:55 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 51
+WARNING: 11/30/2017 07:53:55 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 52
+WARNING: 11/30/2017 07:53:55 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 53
+WARNING: 11/30/2017 07:53:56 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 54
+WARNING: 11/30/2017 07:53:56 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 55
+WARNING: 11/30/2017 07:53:57 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 56
+WARNING: 11/30/2017 07:53:57 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 57
+WARNING: 11/30/2017 07:53:57 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 58
+WARNING: 11/30/2017 07:53:57 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 59
+WARNING: 11/30/2017 07:53:58 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 60
+WARNING: 11/30/2017 07:53:58 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 61
+WARNING: 11/30/2017 07:53:59 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 62
+WARNING: 11/30/2017 07:53:59 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 63
+WARNING: 11/30/2017 07:53:59 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 64
+WARNING: 11/30/2017 07:53:59 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 65
+WARNING: 11/30/2017 07:54:00 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 66
+WARNING: 11/30/2017 07:54:00 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 67
+WARNING: 11/30/2017 07:54:01 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 68
+WARNING: 11/30/2017 07:54:01 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 69
+WARNING: 11/30/2017 07:54:01 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 70
+WARNING: 11/30/2017 07:54:01 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 71
+WARNING: 11/30/2017 07:54:03 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 72
+WARNING: 11/30/2017 07:54:03 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 73
+WARNING: 11/30/2017 07:54:03 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 74
+WARNING: 11/30/2017 07:54:03 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 75
+WARNING: 11/30/2017 07:54:03 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 76
+WARNING: 11/30/2017 07:54:04 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 77
+WARNING: 11/30/2017 07:54:04 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 78
+WARNING: 11/30/2017 07:54:04 PM __del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+INFO: 11/30/2017 07:55:55 PM ARP Spoofing Detection Started on 129.21.86.56
+WARNING: 11/30/2017 07:56:24 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 0
+WARNING: 11/30/2017 07:56:25 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 1
+WARNING: 11/30/2017 07:56:26 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 2
+WARNING: 11/30/2017 07:56:26 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 3
+WARNING: 11/30/2017 07:56:27 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 4
+WARNING: 11/30/2017 07:56:27 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 5
+WARNING: 11/30/2017 07:56:27 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 6
+WARNING: 11/30/2017 07:56:27 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 7
+WARNING: 11/30/2017 07:56:28 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 8
+WARNING: 11/30/2017 07:56:29 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 9
+WARNING: 11/30/2017 07:56:29 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 10
+WARNING: 11/30/2017 07:56:29 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 11
+ERROR: 11/30/2017 07:56:29 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 11/30/2017 07:56:29 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 12
+WARNING: 11/30/2017 07:56:30 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 13
+WARNING: 11/30/2017 07:56:30 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 14
+WARNING: 11/30/2017 07:56:30 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 15
+WARNING: 11/30/2017 07:56:31 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 16
+WARNING: 11/30/2017 07:56:31 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 17
+WARNING: 11/30/2017 07:56:32 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 18
+WARNING: 11/30/2017 07:56:32 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 19
+WARNING: 11/30/2017 07:56:32 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 20
+WARNING: 11/30/2017 07:56:32 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 21
+WARNING: 11/30/2017 07:56:33 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 22
+WARNING: 11/30/2017 07:56:33 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 23
+WARNING: 11/30/2017 07:56:34 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 24
+WARNING: 11/30/2017 07:56:34 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 25
+WARNING: 11/30/2017 07:56:34 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 26
+WARNING: 11/30/2017 07:56:34 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 27
+WARNING: 11/30/2017 07:56:35 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 28
+WARNING: 11/30/2017 07:56:35 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 29
+WARNING: 11/30/2017 07:56:35 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 30
+WARNING: 11/30/2017 07:56:35 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 31
+WARNING: 11/30/2017 07:56:36 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 32
+WARNING: 11/30/2017 07:56:36 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 33
+WARNING: 11/30/2017 07:56:36 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 34
+WARNING: 11/30/2017 07:56:36 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 35
+WARNING: 11/30/2017 07:56:37 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 36
+WARNING: 11/30/2017 07:56:37 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 37
+WARNING: 11/30/2017 07:56:38 PM __del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+INFO: 12/07/2017 03:20:18 PM ARP Spoofing Detection Started on 129.21.87.146
+WARNING: 12/07/2017 03:21:36 PM __del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+INFO: 12/07/2017 03:23:59 PM ARP Spoofing Detection Started on 129.21.87.146
+WARNING: 12/07/2017 03:25:26 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 0
+WARNING: 12/07/2017 03:25:30 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 1
+WARNING: 12/07/2017 03:25:30 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 2
+WARNING: 12/07/2017 03:25:31 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 3
+WARNING: 12/07/2017 03:25:31 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 4
+WARNING: 12/07/2017 03:25:35 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 5
+WARNING: 12/07/2017 03:25:35 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 6
+WARNING: 12/07/2017 03:25:36 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 7
+WARNING: 12/07/2017 03:25:38 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 8
+WARNING: 12/07/2017 03:25:42 PM __del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+INFO: 12/07/2017 03:26:15 PM ARP Spoofing Detection Started on 129.21.87.146
+WARNING: 12/07/2017 03:26:50 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 0
+WARNING: 12/07/2017 03:26:54 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 1
+WARNING: 12/07/2017 03:26:54 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 2
+WARNING: 12/07/2017 03:26:58 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 3
+WARNING: 12/07/2017 03:26:58 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 4
+WARNING: 12/07/2017 03:26:58 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 5
+WARNING: 12/07/2017 03:26:59 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 6
+WARNING: 12/07/2017 03:26:59 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 7
+WARNING: 12/07/2017 03:27:02 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 8
+WARNING: 12/07/2017 03:27:03 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 9
+WARNING: 12/07/2017 03:27:03 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 10
+WARNING: 12/07/2017 03:27:06 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 11
+ERROR: 12/07/2017 03:27:06 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/07/2017 03:27:06 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 12
+WARNING: 12/07/2017 03:27:06 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 13
+WARNING: 12/07/2017 03:27:07 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 14
+WARNING: 12/07/2017 03:27:08 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 15
+WARNING: 12/07/2017 03:27:08 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 16
+WARNING: 12/07/2017 03:27:08 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 17
+WARNING: 12/07/2017 03:27:12 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 18
+WARNING: 12/07/2017 03:27:21 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 19
+WARNING: 12/07/2017 03:27:21 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 20
+WARNING: 12/07/2017 03:27:24 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 21
+WARNING: 12/07/2017 03:27:24 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 22
+WARNING: 12/07/2017 03:27:25 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 23
+WARNING: 12/07/2017 03:27:25 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 24
+WARNING: 12/07/2017 03:27:27 PM __del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+INFO: 12/07/2017 03:45:33 PM ARP Spoofing Detection Started on 129.21.87.146
+WARNING: 12/07/2017 03:55:36 PM ARP replies detected from MAC 2c:54:91:70:53:0d. Request count 0
+WARNING: 12/07/2017 04:13:25 PM __del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+INFO: 12/08/2017 01:42:50 PM ARP Spoofing Detection Started on 129.21.84.139
+WARNING: 12/08/2017 01:44:02 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 0
+WARNING: 12/08/2017 01:44:02 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 1
+WARNING: 12/08/2017 01:44:02 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 2
+WARNING: 12/08/2017 01:44:03 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 3
+WARNING: 12/08/2017 01:44:03 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 4
+WARNING: 12/08/2017 01:44:06 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 5
+WARNING: 12/08/2017 01:44:06 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 6
+WARNING: 12/08/2017 01:44:10 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 7
+WARNING: 12/08/2017 01:44:10 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 8
+WARNING: 12/08/2017 01:44:11 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 9
+WARNING: 12/08/2017 01:44:11 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 10
+WARNING: 12/08/2017 01:44:12 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 11
+ERROR: 12/08/2017 01:44:12 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:12 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 12
+ERROR: 12/08/2017 01:44:12 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:13 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 13
+ERROR: 12/08/2017 01:44:13 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:13 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 14
+ERROR: 12/08/2017 01:44:13 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:14 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 15
+ERROR: 12/08/2017 01:44:14 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:16 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 16
+ERROR: 12/08/2017 01:44:16 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:16 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 17
+ERROR: 12/08/2017 01:44:16 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:19 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 18
+ERROR: 12/08/2017 01:44:19 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:20 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 19
+ERROR: 12/08/2017 01:44:20 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:20 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 20
+ERROR: 12/08/2017 01:44:20 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:24 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 21
+ERROR: 12/08/2017 01:44:24 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:24 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 22
+ERROR: 12/08/2017 01:44:24 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:25 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 23
+ERROR: 12/08/2017 01:44:25 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:29 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 24
+ERROR: 12/08/2017 01:44:29 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:32 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 25
+ERROR: 12/08/2017 01:44:32 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:32 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 26
+ERROR: 12/08/2017 01:44:32 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:33 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 27
+ERROR: 12/08/2017 01:44:33 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:33 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 28
+ERROR: 12/08/2017 01:44:33 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:36 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 29
+ERROR: 12/08/2017 01:44:36 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:36 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 30
+ERROR: 12/08/2017 01:44:36 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:37 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 31
+ERROR: 12/08/2017 01:44:37 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:37 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 32
+ERROR: 12/08/2017 01:44:37 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:40 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 33
+ERROR: 12/08/2017 01:44:40 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:40 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 34
+ERROR: 12/08/2017 01:44:40 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:41 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 35
+ERROR: 12/08/2017 01:44:41 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:41 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 36
+ERROR: 12/08/2017 01:44:41 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:42 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 37
+ERROR: 12/08/2017 01:44:42 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:42 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 38
+ERROR: 12/08/2017 01:44:42 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:46 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 39
+ERROR: 12/08/2017 01:44:46 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:44:46 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 40
+ERROR: 12/08/2017 01:44:46 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:45:24 PM ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 41
+ERROR: 12/08/2017 01:45:24 PM ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 12/08/2017 01:53:41 PM __del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+INFO: 2017-12-08 13:53:55,253 ARP Spoofing Detection Started on 129.21.84.139
+WARNING: 2017-12-08 13:57:01,910 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 0
+WARNING: 2017-12-08 13:57:04,376 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 1
+WARNING: 2017-12-08 13:57:04,378 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 2
+WARNING: 2017-12-08 13:57:05,396 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 3
+WARNING: 2017-12-08 13:57:05,396 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 4
+WARNING: 2017-12-08 13:57:06,004 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 5
+WARNING: 2017-12-08 13:57:06,005 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 6
+WARNING: 2017-12-08 13:57:10,002 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 7
+WARNING: 2017-12-08 13:57:10,003 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 8
+WARNING: 2017-12-08 13:57:13,688 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 9
+WARNING: 2017-12-08 13:57:13,691 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 10
+WARNING: 2017-12-08 13:57:21,575 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 11
+ERROR: 2017-12-08 13:57:21,576 ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 2017-12-08 13:57:21,577 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 12
+ERROR: 2017-12-08 13:57:21,577 ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 2017-12-08 13:57:24,026 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 13
+ERROR: 2017-12-08 13:57:24,027 ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 2017-12-08 13:57:24,028 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 14
+ERROR: 2017-12-08 13:57:24,028 ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 2017-12-08 13:57:24,763 ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 15
+ERROR: 2017-12-08 13:57:24,766 ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING: 2017-12-08 13:57:25,385 __del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+INFO:root:ARP Spoofing Detection Started on 129.21.84.139
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 0
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 1
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 2
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 3
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 4
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 5
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 6
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 7
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 8
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 9
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 10
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 11
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 12
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 13
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 14
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 15
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 16
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 17
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 18
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 19
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 20
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:scapy.runtime:__del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+INFO:root:ARP Spoofing Detection Started on 129.21.84.139
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 0
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 1
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 2
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 3
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 4
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 5
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 6
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 7
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 8
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 9
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 10
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 11
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 12
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 13
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 14
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 15
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 16
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 17
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 18
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 19
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 20
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 21
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 22
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 23
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 24
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 25
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 26
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 27
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 28
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 29
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 30
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 31
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 32
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 33
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 34
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 35
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 36
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 37
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 38
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 39
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 40
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 41
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 42
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 43
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 44
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 45
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 46
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 47
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 48
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 49
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 50
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 51
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 52
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 53
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 54
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:scapy.runtime:__del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+INFO:root:ARP Spoofing Detection Started on 129.21.84.139
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 0
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 1
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 2
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 3
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 4
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 5
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 6
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 7
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 8
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 9
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 10
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 11
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 12
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 13
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 14
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 15
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 16
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 17
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 18
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 19
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 20
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 21
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 22
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 23
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+INFO:root:ARP Spoofing Detection Started on 129.21.84.139
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 0
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 24
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 1
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 25
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 26
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 2
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 27
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 3
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 28
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 4
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 29
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 5
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 6
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 30
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 7
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 31
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 8
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 32
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 33
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 9
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 10
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 34
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 11
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 35
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 36
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 12
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 13
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 37
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 14
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 38
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 15
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 39
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 16
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 40
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 17
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 41
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 42
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 18
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 43
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 19
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 44
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 20
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 45
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 21
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 46
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 22
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 23
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 47
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 24
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 48
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 25
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 49
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 26
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 50
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:scapy.runtime:__del__: don't know how to close the file descriptor. Bugs ahead ! Please report this bug.
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 51
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 52
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 53
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 54
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 55
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 56
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 57
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 58
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 59
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 60
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 61
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 62
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 63
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 64
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 65
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 66
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 67
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 68
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 69
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 70
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 71
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 72
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 73
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 74
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 75
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 76
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 77
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 78
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 79
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 80
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 81
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 82
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 83
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 84
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 85
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 86
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 87
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 88
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 89
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 90
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 91
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 92
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 93
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 94
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 95
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 96
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 97
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 98
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 99
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 100
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 101
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 102
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 103
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 104
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 105
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 106
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 107
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 108
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 109
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 110
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 111
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 112
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 113
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 114
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 115
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 116
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 117
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 118
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 119
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 120
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 121
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 122
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 123
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 124
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 125
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 126
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 127
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 128
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 129
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 130
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 131
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 132
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 133
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 134
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 135
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 136
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 137
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 138
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 139
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 140
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 141
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 142
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 143
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 144
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 145
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 146
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 147
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 148
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 149
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 150
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 151
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 152
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 153
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 154
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 155
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 156
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 157
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 158
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 159
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 160
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 161
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 00:00:0c:07:ac:01. Request count 162
+ERROR:root:ARP Spoofing Detected from MAC Address 00:00:0c:07:ac:01
+WARNING:root:ARP replies detected from MAC 68:bc:0c:95:08:00. Request count 0
